@@ -24,3 +24,8 @@ h1 {
 p {
   color: #555;
 }
+
+
+span { 
+  font-weight: bold;
+}
